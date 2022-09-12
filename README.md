@@ -22,3 +22,8 @@ A repository as a [discussion place](https://github.com/teunbrand/ggplot-extensi
 * The [extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/)
 * The [Awesome `ggplot2`](https://github.com/erikgahner/awesome-ggplot2) repository
 
+### Talks
+
+* [Extending your ability to extend ggplot2](https://www.rstudio.com/resources/rstudioconf-2020/extending-your-ability-to-extend-ggplot2/) by Thomas Lin Pederson at rstudio::conf 2020
+* [Best practises for programming with ggplot2](https://www.rstudio.com/resources/rstudioconf-2020/best-practices-for-programming-with-ggplot2/) by Dewey Dunnington at rstudio::conf 2020
+* [Cracking open ggplot internals with {ggtrace}](https://www.rstudio.com/resources/rstudioconf-2020/best-practices-for-programming-with-ggplot2/) by June Choe at rstudio::conf 2022
