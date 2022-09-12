@@ -1,5 +1,5 @@
 # ggplot-extension-club
-A repository as a [discussion place](https://github.com/teunbrand/ggplot-extension-club/discussions) for extending the ggplot2 R package.
+A repository as a [discussion place](https://github.com/teunbrand/ggplot-extension-club/discussions) for extending the ggplot2 R package. As a bit of background: some people have been meeting about once a month on Zoom and discussing extending ggplot2. This repository was created to accommodate some discussion outside those meetings. Feel free to participate in discussions!
 
 ## Links:
 
