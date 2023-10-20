@@ -1,0 +1,57 @@
+---
+title: "ggextenders hex"
+author: "Evangeline Reynolds"
+date: "10/20/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+
+
+```{r, echo = F, cache = T}
+library(ggplot2)
+library(ggstamp)
+library(magick)
+"https://images.unsplash.com/photo-1571566882372-1598d88abd90?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3RyZXRjaHxlbnwwfHwwfHx8MA%3D%3D" %>% 
+  magick::image_read() %>%
+  # magick::image_flop() %>% 
+  magick::image_emboss() %>% 
+  magick::image_write(format = "png", quality = 100) ->
+bullet_png
+
+ggcanvas() +
+  stamp_png(png = bullet_png, width = 4,
+             x0 = -.75) +
+  stamp_polygon(color = "darkolivegreen4", 
+                fill = "lightgoldenrod1",
+                alpha = 0,
+                size = 7, radius = 3) + 
+  stamp_polygon_holes(x0y0 = pos_honeycomb(n = 50, ncol = 5, width = .5,
+   x0 = 1, y0 = 2), fill = "oldlace", radius = .25,
+   alpha = .25) +
+  stamp_polygon_inverse(radius_outer = Inf, radius = 3) +
+    stamp_text(x = -.85, y = 1.16 , 
+             label = "ggplot2", 
+             size = 6.4, 
+             color = alpha("goldenrod4", .2),
+             vjust = 0, hjust = 0) +
+      stamp_text(x = -.8, y = .88 ,
+             label = "extenders", 
+             size = 7.5, hjust = 0,
+             color = alpha("dodgerblue4", .2),
+             vjust = 0) +
+  theme_void_fill(fill = alpha("navy", .5)) + 
+  stamp_text(label = "Photo credit: Timo Volz",
+             size = 2, color = "oldlace", 
+             angle = -42, y = -1.35, x = -1.5
+             )
+```
