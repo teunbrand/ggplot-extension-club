@@ -1,5 +1,29 @@
 # ggplot-extension-club
-A repository as a [discussion place](https://github.com/teunbrand/ggplot-extension-club/discussions) for extending the ggplot2 R package. As a bit of background: some people have been meeting about once a month on Zoom and discussing extending ggplot2. This repository was created to accommodate some discussion outside those meetings. Feel free to participate in discussions!
+
+A repository as a [discussion place](https://github.com/teunbrand/ggplot-extension-club/discussions) for extending the ggplot2 R package. 
+
+As a bit of background: some people have been meeting virtually every few months and discussing ggplot2 extension. 
+
+
+{ggflowchart} Nov 4, 2023
+{ggeasy} Sept 2, 2023
+{ggsurvfit}   June 10, 2023
+{ggcirclepack} April 15, 2023
+Special Meeting: Wilke's Fundamentals of Data Visualization Jan 2022
+
+{ggtrace}
+{ggh4x} Aug 27, 2022 
+{geomtextpath}
+{ggbump} April 9, 2022
+
+
+
+
+
+This repository will accommodate some discussion outside those meetings and coordination efforts.  Feel free to participate in discussions and be in touch!
+
+
+
 
 ## Links:
 
