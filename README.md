@@ -17,7 +17,7 @@ As a bit of background: some people have been meeting virtually every few months
 - {ggbump} April 9, 2022
 
 
-
+![a hex](https://github.com/teunbrand/ggplot-extension-club/blob/main/ggextenders-hex_files/figure-html/unnamed-chunk-1-1.png?raw=true)
 
 
 This repository will accommodate some discussion outside those meetings and coordination efforts.  Feel free to participate in discussions and be in touch!
