@@ -5,16 +5,16 @@ A repository as a [discussion place](https://github.com/teunbrand/ggplot-extensi
 As a bit of background: some people have been meeting virtually every few months and discussing ggplot2 extension. 
 
 
-{ggflowchart} Nov 4, 2023
-{ggeasy} Sept 2, 2023
-{ggsurvfit}   June 10, 2023
-{ggcirclepack} April 15, 2023
-Special Meeting: Wilke's Fundamentals of Data Visualization Jan 2022
+- {ggflowchart} Nov 4, 2023
+- {ggeasy} Sept 2, 2023
+- {ggsurvfit}   June 10, 2023
+- {ggcirclepack} April 15, 2023
+- Special Meeting: Wilke's Fundamentals of Data Visualization Jan 2022
 
-{ggtrace}
-{ggh4x} Aug 27, 2022 
-{geomtextpath}
-{ggbump} April 9, 2022
+- {ggtrace}
+- {ggh4x} Aug 27, 2022 
+- {geomtextpath}
+- {ggbump} April 9, 2022
 
 
 
