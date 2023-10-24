@@ -19,8 +19,6 @@ As a bit of background: some people have been meeting virtually every few months
 - First meeting, March 19, 2022
 
 
-
-
 This repository will accommodate some discussion outside those meetings and coordination efforts.  Feel free to participate in discussions and be in touch!
 
 
@@ -52,3 +50,6 @@ This repository will accommodate some discussion outside those meetings and coor
 * [Extending your ability to extend ggplot2](https://www.rstudio.com/resources/rstudioconf-2020/extending-your-ability-to-extend-ggplot2/) by Thomas Lin Pederson at rstudio::conf 2020
 * [Best practises for programming with ggplot2](https://www.rstudio.com/resources/rstudioconf-2020/best-practices-for-programming-with-ggplot2/) by Dewey Dunnington at rstudio::conf 2020
 * [Cracking open ggplot internals with {ggtrace}](https://www.rstudio.com/resources/rstudioconf-2020/best-practices-for-programming-with-ggplot2/) by June Choe at rstudio::conf 2022
+
+![a hex](https://github.com/teunbrand/ggplot-extension-club/blob/main/ggextenders-hex_files/figure-html/unnamed-chunk-1-1.png?raw=true)
+
