@@ -4,9 +4,15 @@ A repository as a [discussion place](https://github.com/teunbrand/ggplot-extensi
 
 As a bit of background: some people have been meeting virtually every few months and discussing ggplot2 extension. 
 
+Upcoming
+
+- {ggedit}, January 2024
+- {ggdag}, February 2024
+- A conversation with Di Cook, March 2024
+
+Past meetings
 
 - {ggflowchart} & {arrowheadr} Nov 4, 2023
-
 - {ggeasy} Sept 2, 2023
 - {ggsurvfit}   June 10, 2023
 - {ggcirclepack} April 15, 2023
