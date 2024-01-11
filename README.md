@@ -6,7 +6,6 @@ As a bit of background: some people have been meeting virtually every few months
 
 Upcoming
 
-- {ggedit}, January 2024
 - {ggdag}, February 2024
 - A conversation with Di Cook, March 2024
 
@@ -26,8 +25,6 @@ Past meetings
 
 
 This repository will accommodate some discussion outside those meetings and coordination efforts.  Feel free to participate in discussions and be in touch!
-
-
 
 
 ## Links:
