@@ -6,21 +6,21 @@ As a bit of background: some people have been meeting virtually every few months
 
 Upcoming
 
-- {ggdag}, February 2024
 - A conversation with Di Cook, March 2024
 
 Past meetings
 
-- {ggflowchart} & {arrowheadr} Nov 4, 2023
-- {ggeasy} Sept 2, 2023
-- {ggsurvfit}   June 10, 2023
-- {ggcirclepack} April 15, 2023
-- *Fundamentals of Data Visualization* Jan 28, 2022
+- {ggdag}, Malcolm Barrett, Feb 10, 2024
+- {ggflowchart} Nicola Rennie & {arrowheadr} W. Joel Schneider  Nov 4, 2023
+- {ggeasy} Jonathan Carroll, Sept 2, 2023
+- {ggsurvfit}, Daniel Sjoberg, June 10, 2023
+- {ggcirclepack}, Gina Reynolds, April 15, 2023
+- *Fundamentals of Data Visualization*, Claus Wilke, Jan 28, 2022
 
-- {ggtrace} July 16, 2022
-- {ggh4x} June 11, 2022 
-- {geomtextpath} May 7, 2022
-- {ggbump} April 9, 2022
+- {ggtrace}, June Choe, July 16, 2022
+- {ggh4x}, Teun Van Den Brand, June 11, 2022 
+- {geomtextpath} Allan Cameron May 7, 2022
+- {ggbump} David Sjoberg, April 9, 2022
 - First meeting, March 19, 2022
 
 
