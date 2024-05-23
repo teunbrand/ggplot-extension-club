@@ -6,11 +6,11 @@ As a bit of background: some people have been meeting virtually every few months
 
 Upcoming
 
-- {ggnewscale}
+- {ggnewscale}, Elio Campitelli
 
 Past meetings
 
-- {ggedit} May 11, 2024
+- {ggedit}, Jonathan Sidi, May 11, 2024
 - A conversation with Di Cook {GGally}, March 12/13, 2024
 - {ggdag}, Malcolm Barrett, Feb 10, 2024
 - {ggflowchart} Nicola Rennie & {arrowheadr} W. Joel Schneider  Nov 4, 2023
