@@ -6,7 +6,7 @@ As a bit of background: some people have been meeting virtually every few months
 
 Upcoming
 
-- {ggnewscale}, Elio Campitelli
+- {ggnewscale}, Elio Campitelli, June 22/23, 2024
 
 Past meetings
 
