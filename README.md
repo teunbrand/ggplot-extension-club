@@ -4,12 +4,10 @@ A repository as a [discussion place](https://github.com/teunbrand/ggplot-extensi
 
 As a bit of background: some people have been meeting virtually every few months and discussing ggplot2 extension. 
 
-Upcoming
-
-- {ggnewscale}, Elio Campitelli, June 22/23, 2024
 
 Past meetings
 
+- {ggnewscale}, Elio Campitelli, June 22/23, 2024
 - {ggedit}, Jonathan Sidi, May 11, 2024
 - A conversation with Di Cook {GGally}, March 12/13, 2024
 - {ggdag}, Malcolm Barrett, Feb 10, 2024
