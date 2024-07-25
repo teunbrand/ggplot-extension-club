@@ -4,6 +4,9 @@ A repository as a [discussion place](https://github.com/teunbrand/ggplot-extensi
 
 As a bit of background: some people have been meeting virtually every few months and discussing ggplot2 extension. 
 
+Upcoming meeting:
+
+- {animint2}, Toby Hocking, August 19, 2024
 
 Past meetings
 
