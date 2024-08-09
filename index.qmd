@@ -1,0 +1,14 @@
+---
+format: html
+editor: visual
+---
+
+ggplot2 extenders (A.K.A. ggplot extension club) exists to facilitate conversations about ggplot2 extension.   https://github.com/EvaMaeRey/everyday_ggplot2_extension
+
+1. [Meetings](/meetings.html)
+2. Discussion
+3. Workshops (coming soon)
+
+The extension ecosystem is quite big.  Other projects that support extenders include:
+
+- 
