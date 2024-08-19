@@ -6,7 +6,7 @@ editor: visual
 
 ggplot2 extenders meets in virtually every few months.  Presenters discuss motivation, origins, and challenges of their extension projects!  
 
-Interested in joining us? Please drop a note [here](https://github.com/teunbrand/ggplot-extension-club/discussions/35) so we can be in touch.
+Interested in joining us? Please drop a note [here](https://github.com/teunbrand/ggplot-extension-club/discussions/35) so we can be in touch!
 
 
 
@@ -24,10 +24,10 @@ Past meetings
 - [{ggeasy}](https://jonocarroll.github.io/ggeasy/) Jonathan Carroll, Sept 2, 2023
 - [{ggsurvfit}](https://www.danieldsjoberg.com/ggsurvfit/), Daniel Sjoberg, June 10, 2023
 - [{ggcirclepack}](https://github.com/EvaMaeRey/ggcirclepack), Gina Reynolds, April 15, 2023
-- [*Fundamentals of Data Visualization*](), Claus Wilke, Jan 28, 2022
+- [*Fundamentals of Data Visualization*](), Claus Wilke, Jan 28, 2023
 
-- {ggtrace}, June Choe, July 16, 2022
-- {ggh4x}, Teun Van Den Brand, June 11, 2022 
-- {geomtextpath} Allan Cameron May 7, 2022
-- {ggbump} David Sjoberg, April 9, 2022
+- [{ggtrace}](https://yjunechoe.github.io/ggtrace/), June Choe, July 16, 2022
+- [{ggh4x}](https://teunbrand.github.io/ggh4x/), Teun Van Den Brand, June 11, 2022 
+- [{geomtextpath}](https://allancameron.github.io/geomtextpath/) Allan Cameron May 7, 2022
+- [{ggbump}](https://github.com/davidsjoberg/ggbump) David Sjoberg, April 9, 2022
 - First meeting, March 19, 2022

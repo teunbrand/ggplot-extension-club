@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ggplot2 extenders</title>
+<title>readme.rmd – ggplot2 extenders</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -88,11 +88,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./discussion.html"> 
+    <a class="nav-link" href="./discussion.qmd"> 
 <span class="menu-text">Discuss</span></a>
   </li>  
   <li class="nav-item">
@@ -116,8 +116,23 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#ggplot-extension-club" id="toc-ggplot-extension-club" class="nav-link active" data-scroll-target="#ggplot-extension-club">ggplot-extension-club</a>
+  <ul class="collapse">
+  <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links:</a>
+  <ul class="collapse">
+  <li><a href="#general" id="toc-general" class="nav-link" data-scroll-target="#general">General</a></li>
+  <li><a href="#extending-ggplot2" id="toc-extending-ggplot2" class="nav-link" data-scroll-target="#extending-ggplot2">Extending ggplot2</a></li>
+  <li><a href="#extensions" id="toc-extensions" class="nav-link" data-scroll-target="#extensions">Extensions</a></li>
+  <li><a href="#talks" id="toc-talks" class="nav-link" data-scroll-target="#talks">Talks</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/teunbrand/ggplot-extension-club/edit/main/README.Rmd.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/teunbrand/ggplot-extension-club/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -125,17 +140,74 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Welcome to ggplot2 extenders (aka ggplot extension club)! This forum exists to facilitate conversations about experiences with extension. We like to talk about motivations, challenges, equivocations — in general extension journeys!</p>
-<p>Here are some opportunities to get involved</p>
-<ol type="1">
-<li><a href="./meetings.html">Meetings</a> (virtual)</li>
-<li><a href="./discussion.html">Discussion</a> (github repo discussions)</li>
-<li>Workshops? (coming soon)</li>
-</ol>
-<hr>
-<p>Please note that the extension ecosystem is extensive and other initiatives exist to support extenders and use of ggplot2 extensions. Of note is the <a href="https://exts.ggplot2.tidyverse.org/">ggplot2 extensions</a> tidyverse website. The focus of that initiative is to make it easy for R users to find extensions.</p>
+<section id="ggplot-extension-club" class="level1">
+<h1>ggplot-extension-club</h1>
+<p>A repository as a <a href="https://github.com/teunbrand/ggplot-extension-club/discussions">discussion place</a> for extending the ggplot2 R package.</p>
+<p>As a bit of background: some people have been meeting virtually every few months and discussing ggplot2 extension.</p>
+<p>Upcoming meeting:</p>
+<ul>
+<li>{animint2}, Toby Hocking, August 19, 2024</li>
+</ul>
+<p>Past meetings</p>
+<ul>
+<li><p>{ggnewscale}, Elio Campitelli, June 22/23, 2024</p></li>
+<li><p>{ggedit}, Jonathan Sidi, May 11, 2024</p></li>
+<li><p>A conversation with Di Cook {GGally}, March 12/13, 2024</p></li>
+<li><p>{ggdag}, Malcolm Barrett, Feb 10, 2024</p></li>
+<li><p>{ggflowchart} Nicola Rennie &amp; {arrowheadr} W. Joel Schneider Nov 4, 2023</p></li>
+<li><p>{ggeasy} Jonathan Carroll, Sept 2, 2023</p></li>
+<li><p>{ggsurvfit}, Daniel Sjoberg, June 10, 2023</p></li>
+<li><p>{ggcirclepack}, Gina Reynolds, April 15, 2023</p></li>
+<li><p><em>Fundamentals of Data Visualization</em>, Claus Wilke, Jan 28, 2022</p></li>
+<li><p>{ggtrace}, June Choe, July 16, 2022</p></li>
+<li><p>{ggh4x}, Teun Van Den Brand, June 11, 2022</p></li>
+<li><p>{geomtextpath} Allan Cameron May 7, 2022</p></li>
+<li><p>{ggbump} David Sjoberg, April 9, 2022</p></li>
+<li><p>First meeting, March 19, 2022</p></li>
+</ul>
+<p>This repository will accommodate some discussion outside those meetings and coordination efforts. Feel free to participate in discussions and be in touch!</p>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links:</h2>
+<section id="general" class="level3">
+<h3 class="anchored" data-anchor-id="general">General</h3>
+<ul>
+<li>The <a href="https://github.com/tidyverse/ggplot2">ggplot2</a> repository</li>
+</ul>
+</section>
+<section id="extending-ggplot2" class="level3">
+<h3 class="anchored" data-anchor-id="extending-ggplot2">Extending ggplot2</h3>
+<ul>
+<li>The extending ggplot2 chapters of the <a href="https://ggplot2-book.org/">ggplot2 book</a>:
+<ul>
+<li>Chapter 19: <a href="https://ggplot2-book.org/programming.html">Programming with ggplot2</a></li>
+<li>Chapter 20: <a href="https://ggplot2-book.org/internals.html">ggplot2 internals</a></li>
+<li>Chapter 21: <a href="https://ggplot2-book.org/extensions.html">Writing ggplot2 extensions</a></li>
+<li>Chapter 22: <a href="https://ggplot2-book.org/spring1.html">Case Study: Springs</a></li>
+</ul></li>
+<li>The <a href="https://ggplot2.tidyverse.org/articles/extending-ggplot2.html">extending ggplot2</a> vignette</li>
+<li>The <a href="https://stackoverflow.com/questions/tagged/ggproto">ggproto</a> tag on StackOverflow</li>
+</ul>
+</section>
+<section id="extensions" class="level3">
+<h3 class="anchored" data-anchor-id="extensions">Extensions</h3>
+<ul>
+<li>The <a href="https://exts.ggplot2.tidyverse.org/gallery/">extensions gallery</a></li>
+<li>The <a href="https://github.com/erikgahner/awesome-ggplot2">Awesome <code>ggplot2</code></a> repository</li>
+</ul>
+</section>
+<section id="talks" class="level3">
+<h3 class="anchored" data-anchor-id="talks">Talks</h3>
+<ul>
+<li><a href="https://www.rstudio.com/resources/rstudioconf-2020/extending-your-ability-to-extend-ggplot2/">Extending your ability to extend ggplot2</a> by Thomas Lin Pederson at rstudio::conf 2020</li>
+<li><a href="https://www.rstudio.com/resources/rstudioconf-2020/best-practices-for-programming-with-ggplot2/">Best practises for programming with ggplot2</a> by Dewey Dunnington at rstudio::conf 2020</li>
+<li><a href="https://www.rstudio.com/resources/rstudioconf-2020/best-practices-for-programming-with-ggplot2/">Cracking open ggplot internals with {ggtrace}</a> by June Choe at rstudio::conf 2022</li>
+</ul>
+<p>![(https://github.com/teunbrand/ggplot-extension-club/blob/main/ggextenders-hex_files/figure-html/unnamed-chunk-1-1.png?raw=true)</p>
 
 
+</section>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -566,7 +638,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/teunbrand/ggplot-extension-club/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/teunbrand/ggplot-extension-club/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/teunbrand/ggplot-extension-club/edit/main/README.Rmd.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/teunbrand/ggplot-extension-club/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>Built with <a href="https://quarto.org/">Quarto</a></p>
 </div>
