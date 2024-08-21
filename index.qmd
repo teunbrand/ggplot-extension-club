@@ -3,14 +3,8 @@ format: html
 editor: visual
 ---
 
-Welcome to ggplot2 extenders (aka ggplot extension club)! This forum exists to facilitate conversations about experiences with extension. We like to talk about motivations, challenges, equivocations --- in general extension journeys!
+Welcome to ggplot2 extenders/ggplot2 extension club! This forum exists to facilitate conversations about experiences with extension. We like to talk about motivations, challenges, equivocations — in general, extension journeys!
 
-Here are some opportunities to get involved
+Our main activities are [meetings](/meetings.html) (virtual) and [discussion](/discussion.html) (in our github repo).
 
-1.  [Meetings](/meetings.html) (virtual)
-2.  [Discussion](/discussion.html) (github repo discussions)
-3.  Workshops? (coming soon)
-
-------------------------------------------------------------------------
-
-Please note that the extension ecosystem is extensive and other initiatives exist to support extenders and use of ggplot2 extensions. Of note is the [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/) tidyverse website. The focus of that initiative is to make it easy for R users to find extensions.
+Note that the extension ecosystem is extensive and other initiatives exist to support extenders. Of note is the [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/) tidyverse website, whose focus is to make it easy for R users to find extensions.
