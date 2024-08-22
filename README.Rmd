@@ -44,8 +44,7 @@ meetings
 
 meetings |>
   gt::gt() |>
-  gt::fmt_date(columns = date, date_style = "m_day_year")|> 
-  gt::fmt_markdown()
+  gt::fmt_date(columns = date, date_style = "m_day_year")
 ```
 
 This repository will accommodate some discussion outside those meetings and coordination efforts.  Feel free to participate in discussions and be in touch!

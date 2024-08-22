@@ -12,20 +12,20 @@ few months and discussing ggplot2 extension.
 
 Meetings:
 
-<div id="nvvghpaynx" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#nvvghpaynx table {
+<div id="xedwadgwej" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#xedwadgwej table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-&#10;#nvvghpaynx thead, #nvvghpaynx tbody, #nvvghpaynx tfoot, #nvvghpaynx tr, #nvvghpaynx td, #nvvghpaynx th {
+&#10;#xedwadgwej thead, #xedwadgwej tbody, #xedwadgwej tfoot, #xedwadgwej tr, #xedwadgwej td, #xedwadgwej th {
   border-style: none;
 }
-&#10;#nvvghpaynx p {
+&#10;#xedwadgwej p {
   margin: 0;
   padding: 0;
 }
-&#10;#nvvghpaynx .gt_table {
+&#10;#xedwadgwej .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -50,11 +50,11 @@ Meetings:
   border-left-width: 2px;
   border-left-color: #D3D3D3;
 }
-&#10;#nvvghpaynx .gt_caption {
+&#10;#xedwadgwej .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
-&#10;#nvvghpaynx .gt_title {
+&#10;#xedwadgwej .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -65,7 +65,7 @@ Meetings:
   border-bottom-color: #FFFFFF;
   border-bottom-width: 0;
 }
-&#10;#nvvghpaynx .gt_subtitle {
+&#10;#xedwadgwej .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -76,7 +76,7 @@ Meetings:
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
-&#10;#nvvghpaynx .gt_heading {
+&#10;#xedwadgwej .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -87,12 +87,12 @@ Meetings:
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#nvvghpaynx .gt_bottom_border {
+&#10;#xedwadgwej .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#nvvghpaynx .gt_col_headings {
+&#10;#xedwadgwej .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -106,7 +106,7 @@ Meetings:
   border-right-width: 1px;
   border-right-color: #D3D3D3;
 }
-&#10;#nvvghpaynx .gt_col_heading {
+&#10;#xedwadgwej .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -125,7 +125,7 @@ Meetings:
   padding-right: 5px;
   overflow-x: hidden;
 }
-&#10;#nvvghpaynx .gt_column_spanner_outer {
+&#10;#xedwadgwej .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -136,13 +136,13 @@ Meetings:
   padding-left: 4px;
   padding-right: 4px;
 }
-&#10;#nvvghpaynx .gt_column_spanner_outer:first-child {
+&#10;#xedwadgwej .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
-&#10;#nvvghpaynx .gt_column_spanner_outer:last-child {
+&#10;#xedwadgwej .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
-&#10;#nvvghpaynx .gt_column_spanner {
+&#10;#xedwadgwej .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -153,10 +153,10 @@ Meetings:
   display: inline-block;
   width: 100%;
 }
-&#10;#nvvghpaynx .gt_spanner_row {
+&#10;#xedwadgwej .gt_spanner_row {
   border-bottom-style: hidden;
 }
-&#10;#nvvghpaynx .gt_group_heading {
+&#10;#xedwadgwej .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -181,7 +181,7 @@ Meetings:
   vertical-align: middle;
   text-align: left;
 }
-&#10;#nvvghpaynx .gt_empty_group_heading {
+&#10;#xedwadgwej .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -195,13 +195,13 @@ Meetings:
   border-bottom-color: #D3D3D3;
   vertical-align: middle;
 }
-&#10;#nvvghpaynx .gt_from_md > :first-child {
+&#10;#xedwadgwej .gt_from_md > :first-child {
   margin-top: 0;
 }
-&#10;#nvvghpaynx .gt_from_md > :last-child {
+&#10;#xedwadgwej .gt_from_md > :last-child {
   margin-bottom: 0;
 }
-&#10;#nvvghpaynx .gt_row {
+&#10;#xedwadgwej .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -219,7 +219,7 @@ Meetings:
   vertical-align: middle;
   overflow-x: hidden;
 }
-&#10;#nvvghpaynx .gt_stub {
+&#10;#xedwadgwej .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -231,7 +231,7 @@ Meetings:
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#nvvghpaynx .gt_stub_row_group {
+&#10;#xedwadgwej .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -244,13 +244,13 @@ Meetings:
   padding-right: 5px;
   vertical-align: top;
 }
-&#10;#nvvghpaynx .gt_row_group_first td {
+&#10;#xedwadgwej .gt_row_group_first td {
   border-top-width: 2px;
 }
-&#10;#nvvghpaynx .gt_row_group_first th {
+&#10;#xedwadgwej .gt_row_group_first th {
   border-top-width: 2px;
 }
-&#10;#nvvghpaynx .gt_summary_row {
+&#10;#xedwadgwej .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -259,14 +259,14 @@ Meetings:
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#nvvghpaynx .gt_first_summary_row {
+&#10;#xedwadgwej .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
-&#10;#nvvghpaynx .gt_first_summary_row.thick {
+&#10;#xedwadgwej .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
-&#10;#nvvghpaynx .gt_last_summary_row {
+&#10;#xedwadgwej .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -275,7 +275,7 @@ Meetings:
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#nvvghpaynx .gt_grand_summary_row {
+&#10;#xedwadgwej .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -284,7 +284,7 @@ Meetings:
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#nvvghpaynx .gt_first_grand_summary_row {
+&#10;#xedwadgwej .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -293,7 +293,7 @@ Meetings:
   border-top-width: 6px;
   border-top-color: #D3D3D3;
 }
-&#10;#nvvghpaynx .gt_last_grand_summary_row_top {
+&#10;#xedwadgwej .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -302,10 +302,10 @@ Meetings:
   border-bottom-width: 6px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#nvvghpaynx .gt_striped {
+&#10;#xedwadgwej .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
-&#10;#nvvghpaynx .gt_table_body {
+&#10;#xedwadgwej .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -313,7 +313,7 @@ Meetings:
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
-&#10;#nvvghpaynx .gt_footnotes {
+&#10;#xedwadgwej .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -326,7 +326,7 @@ Meetings:
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#nvvghpaynx .gt_footnote {
+&#10;#xedwadgwej .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -334,7 +334,7 @@ Meetings:
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#nvvghpaynx .gt_sourcenotes {
+&#10;#xedwadgwej .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -347,57 +347,57 @@ Meetings:
   border-right-width: 2px;
   border-right-color: #D3D3D3;
 }
-&#10;#nvvghpaynx .gt_sourcenote {
+&#10;#xedwadgwej .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
   padding-left: 5px;
   padding-right: 5px;
 }
-&#10;#nvvghpaynx .gt_left {
+&#10;#xedwadgwej .gt_left {
   text-align: left;
 }
-&#10;#nvvghpaynx .gt_center {
+&#10;#xedwadgwej .gt_center {
   text-align: center;
 }
-&#10;#nvvghpaynx .gt_right {
+&#10;#xedwadgwej .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
-&#10;#nvvghpaynx .gt_font_normal {
+&#10;#xedwadgwej .gt_font_normal {
   font-weight: normal;
 }
-&#10;#nvvghpaynx .gt_font_bold {
+&#10;#xedwadgwej .gt_font_bold {
   font-weight: bold;
 }
-&#10;#nvvghpaynx .gt_font_italic {
+&#10;#xedwadgwej .gt_font_italic {
   font-style: italic;
 }
-&#10;#nvvghpaynx .gt_super {
+&#10;#xedwadgwej .gt_super {
   font-size: 65%;
 }
-&#10;#nvvghpaynx .gt_footnote_marks {
+&#10;#xedwadgwej .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
-&#10;#nvvghpaynx .gt_asterisk {
+&#10;#xedwadgwej .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
-&#10;#nvvghpaynx .gt_indent_1 {
+&#10;#xedwadgwej .gt_indent_1 {
   text-indent: 5px;
 }
-&#10;#nvvghpaynx .gt_indent_2 {
+&#10;#xedwadgwej .gt_indent_2 {
   text-indent: 10px;
 }
-&#10;#nvvghpaynx .gt_indent_3 {
+&#10;#xedwadgwej .gt_indent_3 {
   text-indent: 15px;
 }
-&#10;#nvvghpaynx .gt_indent_4 {
+&#10;#xedwadgwej .gt_indent_4 {
   text-indent: 20px;
 }
-&#10;#nvvghpaynx .gt_indent_5 {
+&#10;#xedwadgwej .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
@@ -411,118 +411,70 @@ Meetings:
     </tr>
   </thead>
   <tbody class="gt_table_body">
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2024-08-19</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>Toby Hocking</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{animint2}</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">Aug 19, 2024</td>
+<td headers="presenter" class="gt_row gt_left">Toby Hocking</td>
+<td headers="package" class="gt_row gt_left">{animint2}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2024-06-22</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>Elio Campitelli</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{ggnewscale}</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">Jun 22, 2024</td>
+<td headers="presenter" class="gt_row gt_left">Elio Campitelli</td>
+<td headers="package" class="gt_row gt_left">{ggnewscale}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2024-05-11</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>Jonathan Sidi</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{ggedit}</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">May 11, 2024</td>
+<td headers="presenter" class="gt_row gt_left">Jonathan Sidi</td>
+<td headers="package" class="gt_row gt_left">{ggedit}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2024-03-12</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>Di Cook</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{GGally}</p>
-</div></td>
-<td headers="special topic" class="gt_row gt_left"><div class='gt_from_md'><p>A conversation with Di Cook</p>
-</div></td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2024-02-10</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>Malcolm Barrett</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{ggdag}</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">Mar 12, 2024</td>
+<td headers="presenter" class="gt_row gt_left">Di Cook</td>
+<td headers="package" class="gt_row gt_left">{GGally}</td>
+<td headers="special topic" class="gt_row gt_left">A conversation with Di Cook </td></tr>
+    <tr><td headers="date" class="gt_row gt_right">Feb 10, 2024</td>
+<td headers="presenter" class="gt_row gt_left">Malcolm Barrett</td>
+<td headers="package" class="gt_row gt_left">{ggdag}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2023-11-04</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>Nicola Rennie</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{ggflowchart}</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">Nov 4, 2023</td>
+<td headers="presenter" class="gt_row gt_left">Nicola Rennie</td>
+<td headers="package" class="gt_row gt_left">{ggflowchart}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2023-11-04</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>W. Joel Schneider</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{arrowheadr}</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">Nov 4, 2023</td>
+<td headers="presenter" class="gt_row gt_left">W. Joel Schneider</td>
+<td headers="package" class="gt_row gt_left">{arrowheadr}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2023-09-02</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>Jonathan Carroll</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{ggeasy}</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">Sep 2, 2023</td>
+<td headers="presenter" class="gt_row gt_left">Jonathan Carroll</td>
+<td headers="package" class="gt_row gt_left">{ggeasy}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2023-06-10</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>Daniel Sjoberg</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{ggsurvfit}</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">Jun 10, 2023</td>
+<td headers="presenter" class="gt_row gt_left">Daniel Sjoberg</td>
+<td headers="package" class="gt_row gt_left">{ggsurvfit}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2023-04-15</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>Gina Reynolds</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{ggcirclepack}</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">Apr 15, 2023</td>
+<td headers="presenter" class="gt_row gt_left">Gina Reynolds</td>
+<td headers="package" class="gt_row gt_left">{ggcirclepack}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2022-01-28</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>Claus Wilke</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">Jan 28, 2022</td>
+<td headers="presenter" class="gt_row gt_left">Claus Wilke</td>
 <td headers="package" class="gt_row gt_left">NA</td>
-<td headers="special topic" class="gt_row gt_left"><div class='gt_from_md'><p>‘Fundamentals of Data Visualization’ book project</p>
-</div></td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2022-07-16</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>June Choe</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{ggtrace}</p>
-</div></td>
+<td headers="special topic" class="gt_row gt_left">'Fundamentals of Data Visualization' book project</td></tr>
+    <tr><td headers="date" class="gt_row gt_right">Jul 16, 2022</td>
+<td headers="presenter" class="gt_row gt_left">June Choe</td>
+<td headers="package" class="gt_row gt_left">{ggtrace}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2022-06-11</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>Teun van den Brand</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{ggh4x}</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">Jun 11, 2022</td>
+<td headers="presenter" class="gt_row gt_left">Teun van den Brand</td>
+<td headers="package" class="gt_row gt_left">{ggh4x}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2022-05-07</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>Allan Cameron</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{geomtextpath}</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">May 7, 2022</td>
+<td headers="presenter" class="gt_row gt_left">Allan Cameron</td>
+<td headers="package" class="gt_row gt_left">{geomtextpath}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2022-04-09</p>
-</div></td>
-<td headers="presenter" class="gt_row gt_left"><div class='gt_from_md'><p>David Sjoberg</p>
-</div></td>
-<td headers="package" class="gt_row gt_left"><div class='gt_from_md'><p>{ggbump}</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">Apr 9, 2022</td>
+<td headers="presenter" class="gt_row gt_left">David Sjoberg</td>
+<td headers="package" class="gt_row gt_left">{ggbump}</td>
 <td headers="special topic" class="gt_row gt_left">NA</td></tr>
-    <tr><td headers="date" class="gt_row gt_right"><div class='gt_from_md'><p>2022-03-19</p>
-</div></td>
+    <tr><td headers="date" class="gt_row gt_right">Mar 19, 2022</td>
 <td headers="presenter" class="gt_row gt_left">NA</td>
 <td headers="package" class="gt_row gt_left">NA</td>
-<td headers="special topic" class="gt_row gt_left"><div class='gt_from_md'><p>First meeting</p>
-</div></td></tr>
+<td headers="special topic" class="gt_row gt_left">First meeting</td></tr>
   </tbody>
   &#10;  
 </table>
