@@ -18,10 +18,13 @@ A repository as a [discussion place](https://github.com/teunbrand/ggplot-extensi
 
 As a bit of background: some people have been meeting virtually every few months and discussing ggplot2 extension. 
 
+This repository will accommodate some discussion outside those meetings and coordination efforts.  Feel free to participate in discussions and be in touch!
+
+
 Meetings:
 
 
-```{r, echo = F}
+```{r, echo = F, results = 'asis'}
 tibble::tribble(~ date, ~ presenter, ~ package, ~`special topic`, #~link,
 "2024-08-19", "Toby Hocking", "{animint2}", NA, 
 "2024-06-22", "Elio Campitelli", "{ggnewscale}", NA,
@@ -41,13 +44,22 @@ tibble::tribble(~ date, ~ presenter, ~ package, ~`special topic`, #~link,
 "2022-03-19", NA, NA, "First meeting") ->
 meetings
 
+t <- tempfile()
+readr::write_csv(meetings, t)
 
-meetings |>
-  gt::gt() |>
-  gt::fmt_date(columns = date, date_style = "m_day_year")
+library(magrittr)
+readLines(t) %>% 
+  .[2:length(.)] %>% 
+  paste("- ", ., "\n\n") %>% 
+  stringr::str_replace_all(",", ", ") %>% 
+  stringr::str_remove_all(", NA") %>% 
+  cat()
+
+# meetings |>
+#   gt::gt() |>
+#   gt::fmt_date(columns = date, date_style = "m_day_year")
 ```
 
-This repository will accommodate some discussion outside those meetings and coordination efforts.  Feel free to participate in discussions and be in touch!
 
 
 ## Links:
