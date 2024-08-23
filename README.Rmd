@@ -26,6 +26,7 @@ Meetings:
 
 ```{r, echo = F, results = 'asis'}
 tibble::tribble(~ date, ~ presenter, ~ package, ~`special topic`, #~link,
+"2024-09-10, 3pm eastern", "James Otto", "{ggdensity}", NA,
 "2024-08-19", "Toby Hocking", "{animint2}", NA, 
 "2024-06-22", "Elio Campitelli", "{ggnewscale}", NA,
 "2024-05-11", "Jonathan Sidi", "{ggedit}", NA,
