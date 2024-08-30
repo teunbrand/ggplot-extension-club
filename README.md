@@ -16,6 +16,14 @@ in touch!
 
 Meetings:
 
+- Unscheduled, Hadley Wickham, Thoughts on the ggplot2 extension
+  ecosystem
+
+- Unscheduled, Joseph Larmarange, {ggstats}, gglikert() and
+  geom_likert()
+
+- 2024-09-10, James Otto, {ggdensity}, IRL extension culture
+
 - 2024-08-19, Toby Hocking, {animint2}
 
 - 2024-06-22, Elio Campitelli, {ggnewscale}
@@ -49,13 +57,29 @@ Meetings:
 
 - 2022-03-19, First meeting
 
-## Links:
+<!-- -   [{animint2}](https://github.com/animint/animint2), Toby Hocking, August 19, 2024 -->
+<!-- Past meetings -->
+<!-- -   [{ggnewscale}](https://eliocamp.github.io/ggnewscale/), Elio Campitelli, June 22/23, 2024 -->
+<!-- -   [{ggedit}](https://yonicd.github.io/ggedit/), Jonathan Sidi, May 11, 2024 -->
+<!-- -   A conversation with Di Cook, early extension and [{GGally}](https://ggobi.github.io/ggally/), March 12/13, 2024 -->
+<!-- -   [{ggdag}](https://r-causal.github.io/ggdag/), Malcolm Barrett, Feb 10, 2024 -->
+<!-- -   [{ggflowchart}](https://nrennie.rbind.io/ggflowchart/) Nicola Rennie & [{arrowheadr}](https://wjschne.github.io/arrowheadr/) W. Joel Schneider Nov 4, 2023 -->
+<!-- -   [{ggeasy}](https://jonocarroll.github.io/ggeasy/) Jonathan Carroll, Sept 2, 2023 -->
+<!-- -   [{ggsurvfit}](https://www.danieldsjoberg.com/ggsurvfit/), Daniel Sjoberg, June 10, 2023 -->
+<!-- -   [{ggcirclepack}](https://github.com/EvaMaeRey/ggcirclepack), Gina Reynolds, April 15, 2023 -->
+<!-- -   [*Fundamentals of Data Visualization*](), Claus Wilke, Jan 28, 2023 -->
+<!-- -   [{ggtrace}](https://yjunechoe.github.io/ggtrace/), June Choe, July 16, 2022 -->
+<!-- -   [{ggh4x}](https://teunbrand.github.io/ggh4x/), Teun Van Den Brand, June 11, 2022 -->
+<!-- -   [{geomtextpath}](https://allancameron.github.io/geomtextpath/) Allan Cameron May 7, 2022 -->
+<!-- -   [{ggbump}](https://github.com/davidsjoberg/ggbump) David Sjoberg, April 9, 2022 -->
 
-### General
+## Other Resources
+
+**General**
 
 - The [ggplot2](https://github.com/tidyverse/ggplot2) repository
 
-### Extending ggplot2
+**Extending ggplot2**
 
 - The extending ggplot2 chapters of the [ggplot2
   book](https://ggplot2-book.org/):
@@ -73,20 +97,22 @@ Meetings:
 - The [ggproto](https://stackoverflow.com/questions/tagged/ggproto) tag
   on StackOverflow
 
-### Extensions
+**Extensions**
 
 - The [extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/)
 - The [Awesome `ggplot2`](https://github.com/erikgahner/awesome-ggplot2)
   repository
 
-### Talks
+**Talks**
 
 - [Extending your ability to extend
   ggplot2](https://www.rstudio.com/resources/rstudioconf-2020/extending-your-ability-to-extend-ggplot2/)
   by Thomas Lin Pederson at rstudio::conf 2020
+
 - [Best practises for programming with
   ggplot2](https://www.rstudio.com/resources/rstudioconf-2020/best-practices-for-programming-with-ggplot2/)
   by Dewey Dunnington at rstudio::conf 2020
+
 - [Cracking open ggplot internals with
   {ggtrace}](https://www.rstudio.com/resources/rstudioconf-2020/best-practices-for-programming-with-ggplot2/)
   by June Choe at rstudio::conf 2022

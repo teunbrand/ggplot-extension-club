@@ -3,8 +3,33 @@ format: html
 editor: visual
 ---
 
-Welcome to ggplot2 extenders/ggplot2 extension club! This forum exists to facilitate conversations about experiences with extension. We like to talk about motivations, challenges, equivocations — in general, extension journeys!
+Welcome to ggplot2 extenders/ggplot2 extension club. This forum exists to facilitate conversations about experiences with extension. We like to talk about motivations, challenges, equivocations — in general, extension journeys!
 
-Our main activities are [meetings](/meetings.html) (virtual) and [discussion](/discussion.html) (in our github repo).
+Our main activities are [meetings](./meetings.html) and [discussions](./discussion.html).
 
-Note that the extension ecosystem is extensive and other initiatives exist to support extenders. Of note is the [ggplot2 extensions](https://exts.ggplot2.tidyverse.org/) tidyverse website, whose focus is to make it easy for R users to find extensions.
+Note that the extension ecosystem is extensive and other initiatives exist to support extenders, check out our incomplete list of unaffliated [resources](./additional-resources.html)
+
+
+
+```{r, echo = F, warning=F, fig.height=3.5}
+# download.file("https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ggplot2_hex_logo.png/800px-Ggplot2_hex_logo.png", destfile = "800px-Ggplot2_hex_logo.png")  
+  
+
+library(ggstamp)
+library(ggplot2)
+ggcanvas() + 
+  stamp_polygon(x0y0 = pos_honeycomb(n = 50, ncol = 10), 
+                fill = "whitesmoke") + 
+  ggstamp::stamp_wash(fill = "whitesmoke") +
+  ggstamp::theme_void_fill("whitesmoke") + 
+  ggstamp::stamp_png(png = "800px-Ggplot2_hex_logo.png", x0 = 6,
+                     y0 = -3, width = 4
+                    )
+
+
+```
+
+---
+
+
+
