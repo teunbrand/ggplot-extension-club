@@ -24,6 +24,8 @@ Meetings:
 
 - 2024-09-10, James Otto, {ggdensity}, IRL extension culture
 
+- “2024-09-10, 3pm eastern”, James Otto, {ggdensity}
+
 - 2024-08-19, Toby Hocking, {animint2}
 
 - 2024-06-22, Elio Campitelli, {ggnewscale}
