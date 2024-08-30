@@ -7,7 +7,7 @@ Welcome to ggplot2 extenders/ggplot2 extension club. This forum exists to facili
 
 Our main activities are [meetings](./meetings.html) and [discussions](./discussion.html).
 
-Note that the extension ecosystem is extensive and other initiatives exist to support extenders, check out our incomplete list of unaffliated [resources](./additional-resources.html)
+Note that the extension ecosystem is extensive and other initiatives exist to support extenders, check out some [other resources](./additional-resources.html).
 
 
 

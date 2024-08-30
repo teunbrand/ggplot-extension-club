@@ -3,7 +3,7 @@ format: html
 editor: visual
 ---
 
-Additional resources:
+## Additional resources:
 
 ```{r, results = 'asis', comment="", echo = FALSE}
 cat(paste(readLines("unaffiliated_resources.txt"), "\n\n"))
