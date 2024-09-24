@@ -5,20 +5,26 @@ editor: visual
 
 ggplot2 extenders meets in virtually every few months. Presenters discuss motivation, origins, and challenges of their extension projects!
 
-Interested in joining us? Please drop a note [here](https://github.com/teunbrand/ggplot-extension-club/discussions/35) so we can be in touch!
+Interested in joining us? Please leave your contact info [here](https://docs.google.com/forms/d/e/1FAIpQLSe3M1KwUPrmTfEGuuQp0fZ0J7dZkk_82gb310JCvdouMTa_7Q/viewform) and let us know a little about your interest in ggplot2 extension so we can be in touch!
 
-Upcoming meeting:
+Meetings:
 
-```{r , echo = F, results = 'asis'}
+```{r , echo = F}
+#results = 'asis'}
+# }
 library(magrittr)
-readLines("meetings.csv") %>% 
-  .[2:length(.)] %>% 
-  paste("- ", ., "\n\n") %>% 
-  stringr::str_replace_all(",", ", ") %>% 
-  stringr::str_remove_all(", NA") %>% 
-  cat()
+# readLines("meetings.csv") %>% 
+#   .[2:length(.)] %>% 
+#   gt::gt()
+  # paste("- ", ., "\n\n") %>% 
+  # stringr::str_replace_all(",", ", ") %>% 
+  # stringr::str_remove_all(", NA") %>% 
+  # cat()
+
+read.csv("meetings.csv") %>% 
+  gt::gt() %>%
+  gt::fmt_date(columns = c(date), date_style = "wd_m_day_year") %>% 
+  gt::sub_missing(missing_text = "---")
+
 
 ```
-
-
-

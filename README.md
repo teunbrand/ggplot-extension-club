@@ -16,15 +16,12 @@ in touch!
 
 Meetings:
 
-- Unscheduled, Hadley Wickham, Thoughts on the ggplot2 extension
-  ecosystem
+- 2024-10-24, Hadley Wickham, {ggplot2}, Thoughts on the ggplot2
+  extension ecosystem
 
-- Unscheduled, Joseph Larmarange, {ggstats}, gglikert() and
-  geom_likert()
+- 2024-10-02, Joseph Larmarange, {ggstats}, gglikert() and geom_likert()
 
 - 2024-09-10, James Otto, {ggdensity}, IRL extension culture
-
-- “2024-09-10, 3pm eastern”, James Otto, {ggdensity}
 
 - 2024-08-19, Toby Hocking, {animint2}
 

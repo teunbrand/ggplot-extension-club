@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "ggplot2 extenders 🫖",
     "section": "",
-    "text": "Welcome to ggplot2 extenders/ggplot2 extension club. This forum exists to facilitate conversations about experiences with extension. We like to talk about motivations, challenges, equivocations — in general, extension journeys!\nOur main activities are meetings and discussions.\nNote that the extension ecosystem is extensive and other initiatives exist to support extenders, check out some other resources."
+    "text": "Welcome to ggplot2 extenders/ggplot2 extension club. This forum exists to facilitate conversations about experiences with extension. We like to talk about motivations, challenges, equivocations — in general, extension journeys!\nOur main activities are meetings and discussions.\n\nInterested in joining us? Please leave your contact info here and let us know a little about your interest in ggplot2 extension so we can be in touch!\nNote that the extension ecosystem is extensive and other initiatives exist to support extenders, check out some other resources."
   },
   {
     "objectID": "ggextenders-hex.html",
@@ -30,9 +30,9 @@
   {
     "objectID": "meetings.html",
     "href": "meetings.html",
-    "title": "ggplot2 extenders",
+    "title": "ggplot2 extenders 🫖",
     "section": "",
-    "text": "ggplot2 extenders meets in virtually every few months. Presenters discuss motivation, origins, and challenges of their extension projects!\nInterested in joining us? Please drop a note here so we can be in touch!\nUpcoming meeting:\n\nUnscheduled, Hadley Wickham, Thoughts on the ggplot2 extension ecosystem\nUnscheduled, Joseph Larmarange, {ggstats}, gglikert() and geom_likert()\n2024-09-10, James Otto, {ggdensity}, IRL extension culture\n2024-08-19, Toby Hocking, {animint2}\n2024-06-22, Elio Campitelli, {ggnewscale}\n2024-05-11, Jonathan Sidi, {ggedit}\n2024-03-12, Di Cook, {GGally}, A conversation with Di Cook\n2024-02-10, Malcolm Barrett, {ggdag}\n2023-11-04, Nicola Rennie, {ggflowchart}\n2023-11-04, W. Joel Schneider, {arrowheadr}\n2023-09-02, Jonathan Carroll, {ggeasy}\n2023-06-10, Daniel Sjoberg, {ggsurvfit}\n2023-04-15, Gina Reynolds, {ggcirclepack}\n2022-01-28, Claus Wilke, ‘Fundamentals of Data Visualization’ book project\n2022-07-16, June Choe, {ggtrace}\n2022-06-11, Teun van den Brand, {ggh4x}\n2022-05-07, Allan Cameron, {geomtextpath}\n2022-04-09, David Sjoberg, {ggbump}\n2022-03-19, First meeting"
+    "text": "ggplot2 extenders meets in virtually every few months. Presenters discuss motivation, origins, and challenges of their extension projects!\nInterested in joining us? Please leave your contact info here and let us know a little about your interest in ggplot2 extension so we can be in touch!\nMeetings:\n\n\n\n\n\n\n\n\ndate\npresenter\npackage\nspecial.topic\n\n\n\n\nThu, Oct 24, 2024\nHadley Wickham\n{ggplot2}\nThoughts on the ggplot2 extension ecosystem\n\n\nWed, Oct 2, 2024\nJoseph Larmarange\n{ggstats}\ngglikert() and geom_likert()\n\n\nTue, Sep 10, 2024\nJames Otto\n{ggdensity}\nIRL extension culture\n\n\nMon, Aug 19, 2024\nToby Hocking\n{animint2}\n—\n\n\nSat, Jun 22, 2024\nElio Campitelli\n{ggnewscale}\n—\n\n\nSat, May 11, 2024\nJonathan Sidi\n{ggedit}\n—\n\n\nTue, Mar 12, 2024\nDi Cook\n{GGally}\nA conversation with Di Cook\n\n\nSat, Feb 10, 2024\nMalcolm Barrett\n{ggdag}\n—\n\n\nSat, Nov 4, 2023\nNicola Rennie\n{ggflowchart}\n—\n\n\nSat, Nov 4, 2023\nW. Joel Schneider\n{arrowheadr}\n—\n\n\nSat, Sep 2, 2023\nJonathan Carroll\n{ggeasy}\n—\n\n\nSat, Jun 10, 2023\nDaniel Sjoberg\n{ggsurvfit}\n—\n\n\nSat, Apr 15, 2023\nGina Reynolds\n{ggcirclepack}\n—\n\n\nFri, Jan 28, 2022\nClaus Wilke\n—\n'Fundamentals of Data Visualization' book project\n\n\nSat, Jul 16, 2022\nJune Choe\n{ggtrace}\n—\n\n\nSat, Jun 11, 2022\nTeun van den Brand\n{ggh4x}\n—\n\n\nSat, May 7, 2022\nAllan Cameron\n{geomtextpath}\n—\n\n\nSat, Apr 9, 2022\nDavid Sjoberg\n{ggbump}\n—\n\n\nSat, Mar 19, 2022\n—\n—\nFirst meeting"
   },
   {
     "objectID": "README.Rmd.html",
@@ -51,9 +51,9 @@
   {
     "objectID": "discussion.html",
     "href": "discussion.html",
-    "title": "ggplot2 extenders",
+    "title": "ggplot2 extenders 🫖",
     "section": "",
-    "text": "Check out our discussion forum where you can contribute to existing threads or bring up new topics. Hot topics include practical questions on API for diverging bar charts and annotating a single facet as well as more theoretical terrain about ggproto inheritance."
+    "text": "Check out our online discussion forum where you can contribute to existing threads or bring up new topics. Hot topics include practical questions on API for diverging bar charts and annotating a single facet as well as more theoretical terrain about ggproto inheritance."
   },
   {
     "objectID": "index.html#links-general-the-ggplot2-repository-extending-ggplot2-the-extending-ggplot2-chapters-of-the-ggplot2-book-chapter-19-programming-with-ggplot2-chapter-20-ggplot2-internals-chapter-21-writing-ggplot2-extensions-chapter-22-case-study-springs-the-extending-ggplot2-vignette-the-ggproto-tag-on-stackoverflow-extensions-the-extensions-gallery-the-awesome-ggplot2-repository-talks-extending-your-ability-to-extend-ggplot2-by-thomas-lin-pederson-at-rstudioconf-2020-best-practises-for-programming-with-ggplot2-by-dewey-dunnington-at-rstudioconf-2020-cracking-open-ggplot-internals-with-ggtrace-by-june-choe-at-rstudioconf-2022",

@@ -46,10 +46,16 @@ ggcanvas() +
              vjust = 0, hjust = 0) +
       stamp_text(x = -.8, y = .88 ,
              label = "extenders", 
-             size = 7.5, hjust = 0,
+             size = 7, hjust = 0,
              color = alpha("dodgerblue4", .2),
              vjust = 0) +
-  theme_void_fill(fill = alpha("navy", .5)) + 
+        # stamp_text(x = .47, y = .66 ,
+        #      label = "club",
+        #      size = 8, hjust = 0,
+        #      color = alpha("dodgerblue4", .2),
+        #      vjust = 0) +
+  theme_void() +
+  # theme_void_fill(fill = alpha("navy", .5), color = "white", linewidth = 0) + 
   stamp_text(label = "Photo credit: Timo Volz",
              size = 2, color = "oldlace", 
              angle = -42, y = -1.35, x = -1.5
