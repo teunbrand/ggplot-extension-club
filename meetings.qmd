@@ -5,7 +5,6 @@ editor: visual
 
 ggplot2 extenders meets in virtually every few months. Presenters discuss motivation, origins, and challenges of their extension projects!
 
-Interested in joining us? Please leave your contact info [here](https://docs.google.com/forms/d/e/1FAIpQLSe3M1KwUPrmTfEGuuQp0fZ0J7dZkk_82gb310JCvdouMTa_7Q/viewform) and let us know a little about your interest in ggplot2 extension so we can be in touch!
 
 Meetings:
 
