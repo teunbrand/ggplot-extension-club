@@ -1,4 +1,6 @@
 date,presenter,package,special topic
+NA,Richard Hanna,{ggswim},NA
+2024-11-13,Cory Brunson,{ordr},NA
 2024-10-24,Hadley Wickham,{ggplot2},Thoughts on the ggplot2 extension ecosystem
 2024-10-02,Joseph Larmarange,{ggstats},gglikert() and geom_likert()
 2024-09-10,James Otto,{ggdensity},IRL extension culture

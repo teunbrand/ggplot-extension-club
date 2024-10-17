@@ -9,6 +9,3 @@ editor: visual
 cat(paste(readLines("unaffiliated_resources.txt"), "\n\n"))
 
 ```
-
-
-

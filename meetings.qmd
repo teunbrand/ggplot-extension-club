@@ -5,7 +5,6 @@ editor: visual
 
 ggplot2 extenders meets in virtually every few months. Presenters discuss motivation, origins, and challenges of their extension projects!
 
-
 Meetings:
 
 ```{r , echo = F}

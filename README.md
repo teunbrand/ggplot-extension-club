@@ -16,6 +16,10 @@ in touch!
 
 Meetings:
 
+- NA, Richard Hanna, {ggswim}
+
+- 2024-11-13, Cory Brunson, {ordr}
+
 - 2024-10-24, Hadley Wickham, {ggplot2}, Thoughts on the ggplot2
   extension ecosystem
 
