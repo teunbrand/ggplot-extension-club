@@ -16,12 +16,15 @@ in touch!
 
 Meetings:
 
-- NA, Richard Hanna, {ggswim}
+- NA, Matthew Kay, {ggdist}, layer algebras & pipelines
+
+- 2024-12-10, Richard Hanna, {ggswim}
 
 - 2024-11-13, Cory Brunson, {ordr}
 
-- 2024-10-24, Hadley Wickham, {ggplot2}, Thoughts on the ggplot2
-  extension ecosystem
+- 2024-10-24, Hadley Wickham, {ggplot2}, [Thoughts on the ggplot2
+  extension
+  ecosystem](https://www.youtube.com/watch?v=kjjcgdkowXs&feature=youtu.be)
 
 - 2024-10-02, Joseph Larmarange, {ggstats}, gglikert() and geom_likert()
 
