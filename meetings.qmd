@@ -11,6 +11,7 @@ Meetings:
 #results = 'asis'}
 # }
 library(magrittr)
+# library(tidyverse)
 # readLines("meetings.csv") %>% 
 #   .[2:length(.)] %>% 
 #   gt::gt()
@@ -22,7 +23,7 @@ library(magrittr)
 read.csv("meetings.csv") %>% 
   gt::gt() %>%
   gt::fmt_date(columns = c(date), date_style = "wd_m_day_year") %>% 
-  gt::sub_missing(missing_text = "---")
-
+  gt::sub_missing(missing_text = "---") %>% 
+  gt::fmt_markdown(columns = c(package,special.topic))
 
 ```

@@ -16,50 +16,72 @@ in touch!
 
 Meetings:
 
-- NA, Matthew Kay, {ggdist}, layer algebras & pipelines
+- 2025-01-21, Teun van den Brand,
+  [{legendry}](https://github.com/teunbrand/legendry)
 
-- 2024-12-10, Richard Hanna, {ggswim}
+- 2024-12-10, Richard Hanna,
+  [{ggswim}](https://github.com/CHOP-CGTInformatics/ggswim)
 
-- 2024-11-13, Cory Brunson, {ordr}
+- 2024-11-13, Cory Brunson,
+  [{ordr}](https://github.com/corybrunson/ordr/)
 
-- 2024-10-24, Hadley Wickham, {ggplot2}, [Thoughts on the ggplot2
-  extension
-  ecosystem](https://www.youtube.com/watch?v=kjjcgdkowXs&feature=youtu.be)
+- 2024-10-24, Hadley Wickham,
+  [{ggplot2}](https://github.com/tidyverse/ggplot2/), Thoughts on the
+  ggplot2 extension ecosystem
+  [(recording)](https://www.youtube.com/watch?v=kjjcgdkowXs&feature=youtu.be)
 
-- 2024-10-02, Joseph Larmarange, {ggstats}, gglikert() and geom_likert()
+- 2024-10-02, Joseph Larmarange,
+  [{ggstats}](https://github.com/larmarange/ggstats/), gglikert() and
+  geom_likert()
 
-- 2024-09-10, James Otto, {ggdensity}, IRL extension culture
+- 2024-09-10, James Otto,
+  [{ggdensity}](https://github.com/jamesotto852/ggdensity/), IRL
+  extension culture
 
-- 2024-08-19, Toby Hocking, {animint2}
+- 2024-08-19, Toby Hocking,
+  [{animint2}](https://github.com/animint/animint2)
 
-- 2024-06-22, Elio Campitelli, {ggnewscale}
+- 2024-06-22, Elio Campitelli,
+  [{ggnewscale}](https://github.com/eliocamp/ggnewscale/)
 
-- 2024-05-11, Jonathan Sidi, {ggedit}
+- 2024-05-11, Jonathan Sidi,
+  [{ggedit}](https://github.com/yonicd/ggedit)
 
-- 2024-03-12, Di Cook, {GGally}, A conversation with Di Cook
+- 2024-03-12, Di Cook, [{GGally}](https://github.com/ggobi/ggally/), A
+  conversation with Di Cook
 
-- 2024-02-10, Malcolm Barrett, {ggdag}
+- 2024-02-10, Malcolm Barrett,
+  [{ggdag}](https://github.com/r-causal/ggdag/)
 
-- 2023-11-04, Nicola Rennie, {ggflowchart}
+- 2023-11-04, Nicola Rennie,
+  [{ggflowchart}](https://github.com/nrennie/ggflowchart)
 
-- 2023-11-04, W. Joel Schneider, {arrowheadr}
+- 2023-11-04, W. Joel Schneider,
+  [{arrowheadr}](https://github.com/wjschne/arrowheadr)
 
-- 2023-09-02, Jonathan Carroll, {ggeasy}
+- 2023-09-02, Jonathan Carroll,
+  [{ggeasy}](https://github.com/jonocarroll/ggeasy/)
 
-- 2023-06-10, Daniel Sjoberg, {ggsurvfit}
+- 2023-06-10, Daniel Sjoberg,
+  [{ggsurvfit}](https://github.com/pharmaverse/ggsurvfit/)
 
-- 2023-04-15, Gina Reynolds, {ggcirclepack}
+- 2023-04-15, Gina Reynolds,
+  [{ggcirclepack}](https://github.com/EvaMaeRey/ggcirclepack)
 
-- 2022-01-28, Claus Wilke, ‘Fundamentals of Data Visualization’ book
-  project
+- 2022-01-28, Claus Wilke, [‘Fundamentals of Data
+  Visualization’](https://github.com/clauswilke/dataviz) book project
 
-- 2022-07-16, June Choe, {ggtrace}
+- 2022-07-16, June Choe,
+  [{ggtrace}](https://github.com/yjunechoe/ggtrace/)
 
-- 2022-06-11, Teun van den Brand, {ggh4x}
+- 2022-06-11, Teun van den Brand,
+  [{ggh4x}](https://github.com/teunbrand/ggh4x/)
 
-- 2022-05-07, Allan Cameron, {geomtextpath}
+- 2022-05-07, Allan Cameron,
+  [{geomtextpath}](https://github.com/AllanCameron/geomtextpath/)
 
-- 2022-04-09, David Sjoberg, {ggbump}
+- 2022-04-09, David Sjoberg,
+  [{ggbump}](https://github.com/davidsjoberg/ggbump)
 
 - 2022-03-19, First meeting
 
