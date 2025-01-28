@@ -7,10 +7,10 @@ ggplot2 extenders meets in virtually every few months. Presenters discuss motiva
 
 Meetings:
 
-```{r , echo = F}
+```{r , echo = F, warning = F, message = F }
 #results = 'asis'}
 # }
-library(magrittr)
+library(tidyverse)
 # library(tidyverse)
 # readLines("meetings.csv") %>% 
 #   .[2:length(.)] %>% 
@@ -21,6 +21,7 @@ library(magrittr)
   # cat()
 
 read.csv("meetings.csv") %>% 
+  filter(!stringr::str_detect(date, "Tentative")) %>% 
   gt::gt() %>%
   gt::fmt_date(columns = c(date), date_style = "wd_m_day_year") %>% 
   gt::sub_missing(missing_text = "---") %>% 

@@ -16,6 +16,20 @@ in touch!
 
 Meetings:
 
+- Tentative June, David Gohels,
+  [{ggiraph}](https://davidgohel.github.io/ggiraph/)
+
+- Tentative May, Cynthia Huang, Design principles for plot helper
+  functions
+
+- Tentative April, Hassan Kibirige, [plotnine](https://plotnine.org/): A
+  Grammar of Graphics for Python
+
+- 2025-03-05, Winston Chang, [The R Graphics
+  Cookbook](https://r-graphics.org/) & ggproto
+
+- 2025-02-12, Mitchell O’Hara-Wild, {ggtime} proposal
+
 - 2025-01-21, Teun van den Brand,
   [{legendry}](https://github.com/teunbrand/legendry)
 
