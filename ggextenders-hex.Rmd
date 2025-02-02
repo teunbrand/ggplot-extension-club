@@ -21,10 +21,11 @@ When you click the **Knit** button a document will be generated that includes bo
 library(ggplot2)
 library(ggstamp)
 library(magick)
+library(ggfx)
 "https://images.unsplash.com/photo-1571566882372-1598d88abd90?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3RyZXRjaHxlbnwwfHwwfHx8MA%3D%3D" %>% 
   magick::image_read() %>%
   # magick::image_flop() %>% 
-  magick::image_emboss() %>% 
+  # magick::image_emboss() %>% 
   magick::image_write(format = "png", quality = 100) ->
 bullet_png
 
@@ -34,17 +35,17 @@ ggcanvas() +
   stamp_polygon(color = "darkolivegreen4", 
                 fill = "lightgoldenrod1",
                 alpha = 0,
-                size = 7, radius = 3) + 
+                size = 7, radius = 3) |> ggfx::with_inner_glow() + 
   stamp_polygon_holes(x0y0 = pos_honeycomb(n = 50, ncol = 5, width = .5,
    x0 = 1, y0 = 2), fill = "oldlace", radius = .25,
    alpha = .25) +
-  stamp_polygon_inverse(radius_outer = Inf, radius = 3) +
-    stamp_text(x = -.85, y = 1.16 , 
+  stamp_polygon_inverse(radius_outer = Inf, radius = 3.1) +
+  stamp_text(x = -.85, y = 1.16 , 
              label = "ggplot2", 
              size = 6.4, 
              color = alpha("goldenrod4", .2),
              vjust = 0, hjust = 0) +
-      stamp_text(x = -.8, y = .88 ,
+  stamp_text(x = -.8, y = .88 ,
              label = "extenders", 
              size = 7, hjust = 0,
              color = alpha("dodgerblue4", .2),
@@ -55,9 +56,12 @@ ggcanvas() +
         #      color = alpha("dodgerblue4", .2),
         #      vjust = 0) +
   theme_void() +
-  # theme_void_fill(fill = alpha("navy", .5), color = "white", linewidth = 0) + 
+  theme_void_fill(fill = alpha("navy", .5), color = "white", margin.top = 0) + 
   stamp_text(label = "Photo credit: Timo Volz",
              size = 2, color = "oldlace", 
              angle = -42, y = -1.35, x = -1.5
              )
+
+
+
 ```
