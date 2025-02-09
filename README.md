@@ -1,4 +1,19 @@
 
+# We've moved!  Our new home is [here](https://github.com/ggplot2-extenders/ggplot-extension-club) in the new ggplot2-extenders github organization.  Our website is now [here](https://ggplot2-extenders.github.io/ggplot-extension-club/)
+
+---
+
+ @teunbrand, could you open discussions here, and just put a note that discussions have moved to:   https://github.com/ggplot2-extenders/ggplot-extension-club/discussions  ...
+
+I think we could also do github pages to the *old* address - w/ readme serving the site, and so the 'We've moved' message would appear instead of the 404.
+
+Looks like new traffic has found it's way to the new home, but not sure everyone would manage w/o redirects - not as automatic with user -> organization change, as compared to repo name change.
+
+I need to update this link in the website @ggplot2-extenders, other links are looking okay
+
+![image](https://github.com/user-attachments/assets/afd34b3a-da6d-4105-91aa-98ce98c78152)
+
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # ggplot-extension-club
