@@ -2,6 +2,7 @@
 
 - Our new home is https://github.com/ggplot2-extenders/ggplot-extension-club, in `ggplot2-extenders` github organization.  
 - Our website is now https://ggplot2-extenders.github.io/ggplot-extension-club/
+- Discussions have moved: https://github.com/ggplot2-extenders/ggplot-extension-club/discussions
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
